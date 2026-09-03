@@ -1,11 +1,4 @@
+
 script_key = AMIGO-001
 
 loadstring(game:HttpGet(“https://raw.githubusercontent.com/jesussenior68-dot/PrimeUb/refs/heads/main/PrimeUB_by_speedsisno.lua”))() únete eso con la key de jason
-{
-  "keys": {
-    "AMIGO-001": {
-      "active": true,
-      "expires": null
-    }
-  }
-}
